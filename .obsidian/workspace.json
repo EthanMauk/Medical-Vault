@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -34,7 +34,7 @@
       {
         "id": "55d5777e00a35453",
         "type": "tabs",
-        "dimension": 61.20879120879121,
+        "dimension": 37.69230769230769,
         "children": [
           {
             "id": "4abd15ca1c3deb57",
@@ -64,7 +64,7 @@
       {
         "id": "9ade11c92e07473b",
         "type": "tabs",
-        "dimension": 38.791208791208796,
+        "dimension": 62.30769230769231,
         "children": [
           {
             "id": "4d639d8ce5ceee25",
@@ -96,7 +96,7 @@
       {
         "id": "8fd33e060bf49be5",
         "type": "tabs",
-        "dimension": 40.041928721174,
+        "dimension": 24.054621848739497,
         "children": [
           {
             "id": "62f6701aaebeab22",
@@ -104,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
@@ -126,12 +127,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.292012981872873,
                   "linkDistance": 136,
-                  "scale": 0.5570571621147556,
+                  "scale": 0.7458839699554919,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -221,7 +222,7 @@
       {
         "id": "0238adcb5b464d01",
         "type": "tabs",
-        "dimension": 59.958071278826,
+        "dimension": 75.9453781512605,
         "children": [
           {
             "id": "05a2c6fea101f031",
@@ -253,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,18 +277,35 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Exams/Block Exam 1.md",
     "Home.md",
+    "copilot/copilot-conversations/Make_a_mock_up_exam_based_on_block_1@20260302_135953.md",
+    "copilot/copilot-conversations/How_many_times_is_the_word_the_written_in_my@20260302_135608.md",
+    "copilot/copilot-conversations/How_many_of_my_notes_mention_Perfusion@20260302_134440.md",
+    "copilot/copilot-conversations/How_is_this@20260303_011152.md",
+    "copilot/copilot-conversations/How_is_my_home_page_now@20260303_010636.md",
+    "copilot/copilot-conversations/hey@20260302_124331.md",
+    "copilot/copilot-conversations/Hey@20260302_113405.md",
+    "copilot/copilot-conversations/Hello@20260302_134145.md",
+    "copilot/copilot-conversations/Can_you_create_a_heatmap_of_idea_in_my_vault@20260302_150433.md",
+    "copilot/copilot-conversations/Can_you_create_5_flashcards_from_this_page@20260303_120737.md",
+    "copilot/copilot-conversations/Can_you_create_an_example_exam_for_block_1@20260302_173123.md",
+    "copilot/copilot-conversations/Can_you_make_me_some_example_flash_cards@20260302_173453.md",
+    "Default/Emergency Medical Services.md",
+    "copilot/copilot-conversations/Reword_the_first_paragraph_for_me_to_be_more_concise@20260303_120644.md",
+    "copilot/copilot-conversations/Summarize_this_into_50_words@20260303_120557.md",
+    "copilot/copilot-conversations/Summarize_this_page_into_a_paragraph@20260303_120523.md",
+    "Resources/Quotes.md",
+    "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/EMS-Star.png",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
     "Excalidraw/Drawing.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
     "Excalidraw/Scripts/Downloaded/Image Occlusion.md",
-    "Default/Emergency Medical Services.md",
     "Default/Medical Terminology.md",
     "Users/eioia/Documents/Medical/EMT.md",
     "Resources/EMS Star.jpeg",
-    "Exams/Block Exam 1.md",
     "Users/eioia/Downloads/IMG_9401.jpeg.md",
     "Default/EMT Textbook.alias.md",
     "Users/eioia/Downloads",
@@ -295,30 +313,14 @@
     "Users/eioia/Documents",
     "Users/eioia",
     "Users",
-    "Resources/Quotes.md",
     "EMT Textbook",
     "EMT 101 Textbook copy",
-    "Default/EMT 101 Textbook.md",
     "EMT 101 Textbook",
-    "Default/Thorax.md",
-    "Default/Therapeutic Communication.md",
     "Medical",
     "Repository",
-    "Default/Appendicular Skeleton.md",
-    "Default/Skeletal System.md",
-    "Default/Respiratory System.md",
-    "Default/Respiration.md",
-    "Default/Map.md",
-    "Default/Axial Skeleton.md",
-    "copilot/copilot-conversations/How_is_this@20260303_011152.md",
-    "copilot/copilot-conversations/Untitled_Chat@20260303_011125.md",
-    "Default/Joints.md",
-    "copilot/copilot-conversations/How_is_my_home_page_now@20260303_010636.md",
     "dark-flower-wall-paper-mural-room.jpg",
-    "Default/Untitled 3.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Untitled.canvas",
-    "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/Pasted image 20260302104014.png",
     "Resources/Pasted image 20260302103953.png",
     "Resources/Untitled.canvas",

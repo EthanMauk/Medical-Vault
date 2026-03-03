@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">EMS Home Page</h1>
+<h1 style="text-align:center;">EMS Vault Home</h1>
 
 ```dataviewjs
 // Create main row
@@ -125,4 +125,3 @@ let container = dv.el("div", "", {
 
 dv.el("div", randomQuote , { container });
 ```
-This is a test to see if the commit works or not

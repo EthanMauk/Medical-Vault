@@ -2,3 +2,4 @@
 - “Slow is smooth, smooth is fast.”  
 - “Pain is weakness leaving the body.”  
 - “Discipline equals freedom.”
+- “This is an example quote/Definition”
