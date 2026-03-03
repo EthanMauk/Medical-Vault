@@ -105,7 +105,7 @@ Text displayed in column 2.
 --- end-multi-column
 
 ```dataviewjs
-let page = dv.page("Quotes");
+let page = dv.page("/Resources/Quotes");
 let quotes = page.file.lists.map(l => l.text);
 
 let randomQuote = quotes[Math.floor(Math.random() * quotes.length)];

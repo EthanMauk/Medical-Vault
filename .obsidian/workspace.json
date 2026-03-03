@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -104,7 +104,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
@@ -132,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph view"
             }
           },
           {
@@ -277,20 +276,27 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "EMS-Star.png",
     "Home.md",
+    "Resources/EMS-Star.png",
+    "Excalidraw/Scripts/Downloaded/Shade Master.svg",
+    "Excalidraw/Drawing.md",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
+    "Excalidraw/Scripts/Downloaded/Image Occlusion.md",
+    "Default/Emergency Medical Services.md",
+    "Default/Medical Terminology.md",
+    "Users/eioia/Documents/Medical/EMT.md",
+    "Resources/EMS Star.jpeg",
     "Exams/Block Exam 1.md",
     "Users/eioia/Downloads/IMG_9401.jpeg.md",
     "Default/EMT Textbook.alias.md",
     "Users/eioia/Downloads",
-    "Users/eioia/Documents/Medical/EMT.md",
     "Users/eioia/Documents/Medical",
     "Users/eioia/Documents",
     "Users/eioia",
     "Users",
-    "Quotes.md",
+    "Resources/Quotes.md",
     "EMT Textbook",
-    "EMS Star.jpeg",
     "EMT 101 Textbook copy",
     "Default/EMT 101 Textbook.md",
     "EMT 101 Textbook",
@@ -298,7 +304,6 @@
     "Default/Therapeutic Communication.md",
     "Medical",
     "Repository",
-    "Main/Emergency Medical Services.md",
     "Default/Appendicular Skeleton.md",
     "Default/Skeletal System.md",
     "Default/Respiratory System.md",
@@ -311,13 +316,7 @@
     "copilot/copilot-conversations/How_is_my_home_page_now@20260303_010636.md",
     "dark-flower-wall-paper-mural-room.jpg",
     "Default/Untitled 3.md",
-    "copilot/copilot-conversations/What_do_you_think_of_my_new_homepage@20260303_004347.md",
-    "Default/Spinal Column.md",
-    "Default/Ligaments.md",
-    "Excalidraw/Drawing.md",
-    "Excalidraw/Scripts/Downloaded/Shade Master.svg",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
     "Untitled.canvas",
     "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/Pasted image 20260302104014.png",

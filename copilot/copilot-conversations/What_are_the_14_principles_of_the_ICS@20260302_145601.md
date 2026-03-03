@@ -165,7 +165,7 @@ Specificity helps me deliver accurate, relevant, and immediately usable answers 
 ### 📚 2. **Structure Your Queries Around Your Vault**
 Since your vault contains detailed content (e.g., EMT training, patient care reports, ICS principles), frame questions to reflect what’s already in the notes:
 - ❌ "Tell me about EMS"
-- ✅ "Based on the [[Emergency Medical Services.md]] note, how does the National EMS Scope of Practice Model define paramedic responsibilities?"
+- ✅ "Based on the [[Emergency Medical Services]] note, how does the National EMS Scope of Practice Model define paramedic responsibilities?"
 
 This ensures I pull from your actual vault content and avoid generic responses.
 
@@ -228,7 +228,7 @@ When your questions reflect **clinical practice**, **human-centered design**, an
 ---
 
 💡 Example of a high-value question:
-> "Based on the [[Emergency Medical Services.md]] note and the principles of ICS, how can I structure an Obsidian note for an EMT to use during a multi-agency incident involving trauma patients?"
+> "Based on the [[Emergency Medical Services]] note and the principles of ICS, how can I structure an Obsidian note for an EMT to use during a multi-agency incident involving trauma patients?"
 
 That kind of question pulls together content, structure, and real-world application — exactly what you're building.
 
@@ -240,7 +240,7 @@ Let me know if you'd like help designing such a note or refining your next query
 
 **ai**: Your vault does not contain a specific note titled "Patient Care Report" with direct content about **transferring care**.
 
-However, based on the available context — particularly from the [[Emergency Medical Services.md]] note — we can infer how patient care transfer is addressed in EMS operations:
+However, based on the available context — particularly from the [[Emergency Medical Services]] note — we can infer how patient care transfer is addressed in EMS operations:
 
 ---
 
