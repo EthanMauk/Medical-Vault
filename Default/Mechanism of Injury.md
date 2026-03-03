@@ -1,0 +1,3 @@
+**Mechanism of Injury** is specific manner in which a physical injury occurred and describes how, with what force and to which part of the body force was applied. 
+
+An example MOI is penetrating trauma from a gunshot wound to the abdomen. Often times a call is categorized as MOI or [[Nature of Illness|NOI]], but these are not mutually exclusive. A seizure that causes a car accident can be both a MOI and NOI call.

@@ -1,0 +1,1 @@
+**Ligaments** are fibrous tissue that connects bone to bone, helping stabilize the joint. 

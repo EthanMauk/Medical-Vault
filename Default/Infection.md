@@ -1,0 +1,1 @@
+**Infection** is the abnormal invasion of a host by organisms such as bacteria, viruses, or parasites. 

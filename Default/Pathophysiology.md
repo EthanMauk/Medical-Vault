@@ -1,0 +1,1 @@
+**Pathophysiology** is the study of functional changes to the body accompanying some disease or syndrome

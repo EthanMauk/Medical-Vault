@@ -1,0 +1,1 @@
+**Synovial Fluid** is fluid found inside Synovial Joints that lubricates it.

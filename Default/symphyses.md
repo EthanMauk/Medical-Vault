@@ -1,0 +1,1 @@
+**Symphyses** are strong, slightly movable cartilaginous joints. Some examples are the Pubic Symphysis, Intervertebral Discs, Manubriostrermal Joint

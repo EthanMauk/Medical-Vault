@@ -1,0 +1,1 @@
+**[[Involuntary Consent]]** is applicable when an adult patient is incapable of making a rational decision and their legal guardian or conservator cannot be reached. 

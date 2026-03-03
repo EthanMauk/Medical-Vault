@@ -1,0 +1,1 @@
+**Vertebrae** are the individual interlocking bones that form the [[Spinal Column]]. They are connected by ligaments and cushioned between shock absorbing [[Intervertebral Disks]]. 

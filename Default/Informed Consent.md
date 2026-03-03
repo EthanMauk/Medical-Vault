@@ -1,0 +1,1 @@
+Informed Consent means that the nature of the treatment being offered along with the potential risks, benefits and alternatives, and consequences of refusing treatment have been clearly communicated to the patient. 

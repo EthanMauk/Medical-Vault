@@ -1,0 +1,1 @@
+**Voluntary Muscles** are the compliment to [[Involuntary Muscle]], and are consciously controlled muscles that enable movement, posture and balance. 

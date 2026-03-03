@@ -1,0 +1,1 @@
+**Posttraumatic Stress Disorder** is characterized by re-experiencing the event and over-responding to the stimuli that recall the event. 

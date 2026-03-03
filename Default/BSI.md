@@ -1,0 +1,1 @@
+**Body Substance Isolation (BSI)** is a subset of [[PPE]] focusing on infection control practices by wearing equipment that creates a physical barrier from routes of [[Transmission|transmission]] and by using [[Standard Precautions]]. 

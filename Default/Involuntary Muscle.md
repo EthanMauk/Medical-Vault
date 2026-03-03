@@ -1,0 +1,1 @@
+**Involuntary Muscles** are muscles that contract automatically without conscious control, operating through the [[Automatic Nervous System]], to drive essential functions. It is made of smooth and cardiac muscle. 

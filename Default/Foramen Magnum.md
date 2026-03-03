@@ -1,0 +1,1 @@
+The **Foramen Magnum** is a type of [[Foramen]] at the base of the skull which allows for the spinal cord to connect to the brain.

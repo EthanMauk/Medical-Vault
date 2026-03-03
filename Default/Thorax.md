@@ -1,0 +1,1 @@
+The **Thorax** or chest, contains the heart, lungs, esophagus, and great vessels ([[Aorta]] and [[Venae Cavae]]). It is supported by the 12 thoracic vertebrae. ![[Screenshot 2026-03-01 at 11.31.05 AM.png]]

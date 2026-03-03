@@ -1,0 +1,467 @@
+{
+  "id": "4ea02a00-1638-44fa-8c2a-8cd6f2890ce0",
+  "title": "Hey",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hey",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nHey\n\n"
+        }
+      ],
+      "id": "f10f8dd2-ac85-4f95-a9d7-71682ef6859e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "d",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nd\n\n"
+        }
+      ],
+      "id": "bf938497-bbdf-4aaf-83ed-2ef639be11fb",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hey",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nHey\n\n"
+        }
+      ],
+      "id": "b3b3ab09-9f57-4cf3-afd2-0b300dee6658",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hey",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nHey\n\n"
+        }
+      ],
+      "id": "52ce6aae-9dfe-4ab8-8479-dee6d547dc4d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "f",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nf\n\n"
+        }
+      ],
+      "id": "d5c7a838-b92d-4e04-987f-8e29e41657b9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "g",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ng\n\n"
+        }
+      ],
+      "id": "19afb1c6-5eba-4d81-b0d6-02c6c7caec15",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hey",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhey\n\n"
+        }
+      ],
+      "id": "a7131dca-c974-4f7a-9379-6de22599c989",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hey",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nHey\n\n"
+        }
+      ],
+      "id": "60d2a237-11aa-4ddd-b27c-e59ad7249a52",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Default/Respiratory System.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I'd be happy to help you with your Markdown file. What specific question or request do you have about the file?",
+      "id": "67a6ddaf-7994-4a31-aafe-abba65e85fb8",
+      "metadata": {
+        "model": {
+          "providerId": "ollama",
+          "providerType": "ollama",
+          "id": "L3",
+          "model": "Llama3",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 856,
+          "completion_tokens": 25,
+          "total_tokens": 881
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "What can you tell me about my vault",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nWhat can you tell me about my vault\n\n"
+        }
+      ],
+      "id": "4ceda61c-1db7-4891-a234-d63102b5947e",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "content": "I can see that you have several \"Hey\" notes scattered throughout your vault. It looks like you might be using Obsidian to jot down ideas, reminders, or maybe even brainstorming for a project. Am I correct?",
+      "id": "2a7ea306-92ee-43ce-9d22-163bf6cc73fe",
+      "metadata": {
+        "model": {
+          "providerId": "ollama",
+          "providerType": "ollama",
+          "id": "L3",
+          "model": "Llama3",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 455,
+          "completion_tokens": 46,
+          "total_tokens": 501
+        }
+      }
+    }
+  ],
+  "createdAt": 1772478923030,
+  "updatedAt": 1772479185622,
+  "schemaVersion": 1
+}

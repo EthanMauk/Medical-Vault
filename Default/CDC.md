@@ -1,0 +1,1 @@
+**Centers for Disease Control and Prevention (CDC)** is a federal agency under the [[Department of Health and Human Services|DHHS]] who's main goal is the protection of public health and safety through control and prevention of disease. 

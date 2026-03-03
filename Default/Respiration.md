@@ -1,0 +1,3 @@
+**Respiration** is the gas exchange that occurs in the lungs where at the [[Capillaries]], oxygen [[Diffusion|diffuses]] from the blood to tissue cells where it will be used to produce energy, and carbon dioxide and other call waste leave the cells and enter into the blood stream.
+
+The lungs contain about 500 million alveoli, creating. about a tennis court of area for gas exchange or about 100 square meters. A single sphere of the same volume would have about 1/100 square meters of surface area, so by dividing into lots of units it gets 10<sup>6</sup> more surface area.

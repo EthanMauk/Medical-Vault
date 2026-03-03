@@ -1,0 +1,5 @@
+- I’m here with you.
+- You’re not alone right now.
+- Take your time.
+- There’s no right or wrong way to feel.
+- We can sit here as long as you need.

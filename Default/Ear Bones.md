@@ -1,0 +1,1 @@
+The **Ear Bones** are 2 sets of 3 small bones that sit inside the ear drum and allow for the sensation of sound. 

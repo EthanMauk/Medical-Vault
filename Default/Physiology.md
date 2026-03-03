@@ -1,0 +1,1 @@
+**Physiology** is the study of the body's normal functions and activities

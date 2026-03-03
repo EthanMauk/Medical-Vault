@@ -1,0 +1,10 @@
+{
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "main"
+  ],
+  "accentColor": "#028892",
+  "translucency": false,
+  "showRibbon": true
+}

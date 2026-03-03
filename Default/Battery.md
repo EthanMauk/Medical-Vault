@@ -1,0 +1,1 @@
+**Battery** is unlawfully touching a person, which includes administering medical care against someones expressed consent. Civil lawsuits for battery are common, but for criminal charges intent to harm have to be proven. 

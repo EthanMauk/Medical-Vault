@@ -1,0 +1,3 @@
+An **Against Medical Advice (AMA)** form is a document used to record a patient’s informed refusal of recommended medical care. It acknowledges that the patient understands the potential risks and consequences of refusing treatment, which may include serious harm or death.
+
+The ability to refuse care is protected under the patient’s **[[Right to Refuse]]**, provided the patient demonstrates decision-making capacity at the time of refusal.

@@ -1,0 +1,1 @@
+**Cumulative Stress** occurs when you are exposed to prolonged or excessive stress. Each successive stressful event makes recovering from the next more difficult. Symptoms can be fatigue, changes in appetite, headaches, insomnia, hyper insomnia, irritability. 

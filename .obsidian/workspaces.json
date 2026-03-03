@@ -1,0 +1,265 @@
+{
+  "workspaces": {
+    "Main": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0a634e22d0f134cf",
+        "type": "split",
+        "children": [
+          {
+            "id": "55d5777e00a35453",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4abd15ca1c3deb57",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "4d639d8ce5ceee25",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "d32ce1649811a692",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 286.50390243530273
+      },
+      "right": {
+        "id": "b962e08918b318cb",
+        "type": "split",
+        "children": [
+          {
+            "id": "8fd33e060bf49be5",
+            "type": "tabs",
+            "dimension": 30.293501048218033,
+            "children": [
+              {
+                "id": "62f6701aaebeab22",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Home.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "path:Default  ",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8211292210033513,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Home"
+                }
+              },
+              {
+                "id": "bf1888f4a4f3982e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Default/Respiratory System.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Respiratory System"
+                }
+              },
+              {
+                "id": "995c1f006feb2ee6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Default/Respiratory System.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Respiratory System"
+                }
+              },
+              {
+                "id": "5798d1ba25f17eb1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "99ec6bc04883a197",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "05a2c6fea101f031",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Default/Respiratory System.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Respiratory System"
+                }
+              },
+              {
+                "id": "3b0a3cd6bc745f74",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw-sidepanel",
+                  "state": {},
+                  "icon": "excalidraw-icon",
+                  "title": "Excalidraw Sidepanel"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f5d26f2334bb6f8",
+            "type": "tabs",
+            "dimension": 69.70649895178197,
+            "children": [
+              {
+                "id": "032ad282355cfb9d",
+                "type": "leaf",
+                "state": {
+                  "type": "copilot-chat-view",
+                  "state": {},
+                  "icon": "message-square",
+                  "title": "Copilot"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 408.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-kanban:Create new board": false,
+          "copilot:Open Copilot Chat": false,
+          "homepage:Open homepage": false,
+          "css-editor:Open CSS editor quick switcher": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false
+        }
+      },
+      "active": "e7a7b303c61786dc",
+      "mtime": "2026-03-03T00:52:10-08:00"
+    }
+  },
+  "active": "Main"
+}

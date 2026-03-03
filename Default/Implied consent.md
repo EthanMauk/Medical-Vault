@@ -1,0 +1,1 @@
+**[[Implied consent]]** is when a person is unconscious or unable of making an informed rational decision about care and/or are unable to give consent. The law assumes the patient would consent to care and transport. Implied consend is only applicable when there is a threat to life or limb.

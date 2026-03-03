@@ -1,0 +1,1 @@
+**Abandonment** is the unilateral termination of care by a medical provider without the patients consent, or making provisions for [[Continuity of Care|continuity of care]]. 

@@ -1,0 +1,1 @@
+**Assault** is unlawfully placing a person in fear of bodily harm. Threatening a patient can be classified as assault

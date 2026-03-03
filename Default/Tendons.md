@@ -1,0 +1,1 @@
+**Tendons** are tissues that attach bone to muscle. 

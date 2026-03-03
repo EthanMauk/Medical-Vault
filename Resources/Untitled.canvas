@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6d920b56f2aebd57","type":"file","file":"Resources/Pasted image 20260302103953.png","x":0,"y":0,"width":324,"height":400},
+		{"id":"3446cb72a9d05632","type":"file","file":"Resources/Pasted image 20260302104030.png","x":340,"y":0,"width":313,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,1 @@
+**Noise** is anything that dampens or obscures the meaning of a message, or hampers communication. 

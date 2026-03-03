@@ -1,0 +1,3 @@
+****HIPAA** is the Health Insurance Portability and Accountability Act of 1996. It established laws for protection of the privacy of health care information and to protect patient confidentiality. It provides guidelines for what information is protected and penalties for breaching protection. 
+
+All patient information obtained through providing medical treatment to a patient is **protected health information**. PHI may be disclosed for treatment, payment or operations. Identifying information must be removed if the patients care is used for internal quality checks or education. 

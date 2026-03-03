@@ -1,0 +1,1 @@
+[[The Occupational Safety and Health Administration]] is a federal agency under the [[Department of Labor]] that protects workers by setting and enforcing standards, training and education. 

@@ -1,0 +1,1 @@
+**Immunity** is the body’s ability to recognize, resist, and eliminate pathogens or toxins, thereby preventing or limiting infection and disease. Acquired immunity develops after exposure to pathogens is the mechanism used in vaccinations.

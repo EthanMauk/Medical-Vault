@@ -1,0 +1,1 @@
+Ventilation is the movement of air between the lungs and environment, and just requires chest rise and fall. 

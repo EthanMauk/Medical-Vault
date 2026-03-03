@@ -1,0 +1,1 @@
+The **Synovial Membrane** produces [[Synovial Fluid]] that lubricates the inside of joints in the body, to reduce friction and allow for smooth movement. 

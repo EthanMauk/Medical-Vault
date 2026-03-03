@@ -1,0 +1,1 @@
+**[[Expressed consent]]** is the type of consent given when the patient explicitly acknowledges you that they want to receive care. It may be verbal or nonverbal, nodding yes qualifies for expressed consent. 
