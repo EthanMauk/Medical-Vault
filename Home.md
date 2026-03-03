@@ -125,4 +125,3 @@ let container = dv.el("div", "", {
 
 dv.el("div", randomQuote , { container });
 ```
-<img src="EMS-Star.png">
