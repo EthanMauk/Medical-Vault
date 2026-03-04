@@ -94,9 +94,10 @@ margin: 10px
 text-align: center
 ```
 
-Quick Links:
+### Quick Links:
 [[Block Exam 1]]
 [Textbook](file:///Users/eioia/Documents/EMT%20Textbook.epub)
+[[Vault Roadmap]]
 
 --- column-break ---
 

@@ -1,100 +1,100 @@
-- "Yeah, I know it looks calm, but my heart’s racing."
-- "You think you’re ready, then a kid codes on your first call."
-- "Paperwork doesn’t save lives, but it will bury you if you ignore it."
-- "Every call is someone else’s worst day."
-- "You’ll learn more watching your partner than in any class."
-- "Sometimes your only option is to keep showing up."
-- "EMS: where the unexpected is standard procedure."
-- "You never forget the first pediatric code."
-- "Sirens don’t fix problems — your hands do."
-- "Every shift is a test of how much caffeine you can tolerate."
-- "The monitor doesn’t think — you do."
-- "Vitals lie. Patients lie. Trust your gut."
-- "No plan survives contact with the patient."
-- "Sleep? What’s that? Oh right… coffee."
-- "Every night I think 'this one’s gonna be boring,' and then it’s chaos."
-- "The first call sets the tone, the last one haunts you."
-- "You carry more than gear — you carry someone’s worst day."
-- "Yeah, I’m tired. Yeah, I’m short. But I’m here."
-- "Practice makes routine what chaos tries to break."
-- "Chaos doesn’t care about your ego."
-- "You’ll remember smells, sounds, and bad decisions forever."
-- "Reflection? Happens in the truck ride home, not class."
-- "Sometimes the patient teaches you more than any instructor."
-- "Keep your ego at the station, leave it there."
-- "The easiest calls are the ones that sneak up and screw you."
-- "We’re not heroes, we’re just people trying not to screw it up."
-- "Training is never over, even if your shift is."
-- "You’ll figure out fast that you’re always behind."
-- "The patient doesn’t care how stressed you are."
-- "Sometimes all you can do is show up and stay calm."
-- "Hands-on experience beats classroom lectures every time."
-- "The calls that scare you the most are the ones you remember."
-- "Sometimes your partner saves you more than the patient."
-- "Adrenaline is a poor teacher, but an effective one."
-- "Every call leaves a mark you don’t notice until later."
-- "You don’t get to choose the call, but you choose how you show up."
-- "Some nights are long, but the stories are longer."
-- "You learn patience when the system moves slower than a gurney."
-- "There’s always one patient that haunts you for weeks."
-- "The truck is your office, and every call is paperwork waiting to happen."
-- "You can’t control the chaos, but you can control your response."
-- "The smell of smoke, blood, or vomit never really leaves you."
-- "Some calls make you question your career. Then the next one reminds you why."
-- "The first few months are like drinking from a firehose."
-- "EMS is a career in controlled panic."
-- "You’ll get used to sleep deprivation, but not the surprises."
-- "Sometimes the quietest patient teaches the loudest lesson."
-- "Your partner will know you better than your family after a month."
-- "The only thing worse than a bad call is a surprise call on a bad day."
-- "Every code reminds you how little you actually know."
-- "You’ll pick up tricks you never learned in school."
-- "The patient’s story matters more than the vitals sometimes."
-- "You never forget the first time you had to pronounce someone dead."
-- "You can’t save everyone, but you give every chance."
-- "The best lessons come from mistakes you almost kill someone on."
-- "You’ll laugh at things your family will never understand."
-- "EMS teaches you that nothing is under your control."
-- "Some calls are routine. Some are unforgettable."
-- "You’ll learn to make peace with chaos."
-- "The hardest calls test your patience, skill, and humanity."
-- "Sleep, coffee, repeat — welcome to EMS life."
-- "Sometimes the system fails; your skill doesn’t have to."
-- "Every night has a call you’ll tell stories about."
-- "You learn humility fast when a simple call goes sideways."
-- "The first time you run a trauma, you won’t forget it."
-- "EMS: the art of expecting the unexpected."
-- "Some patients change you more than you change them."
-- "You think it’s over, then the next call starts immediately."
-- "Your adrenaline will spike when you least expect it."
-- "Experience is brutal, but it’s honest."
-- "Sometimes all you can do is stay steady."
-- "The monitor is helpful, but it’s not thinking for you."
-- "Every patient teaches you a little about life."
-- "The quiet ones are often the ones you should watch closest."
-- "You’ll figure out who’s competent and who’s bluffing fast."
-- "Some nights are boring; some nights are chaotic beyond imagination."
-- "Coffee is your lifeline and your crutch."
-- "EMS teaches you to notice details no one else sees."
-- "The first code you run will stay with you forever."
-- "Your hands move before your brain sometimes — hope you trained for that."
-- "You’ll see things that make you question humanity."
-- "Some calls remind you why you trained so hard."
-- "The job is as much mental as it is physical."
-- "You’ll realize quickly that no plan survives first contact."
-- "Sometimes showing up is the hardest part."
-- "Every call has a lesson, even if it’s just 'don’t do that again.'"
-- "You’ll learn more from panic than calm."
-- "Sometimes the patient is your teacher; sometimes your partner is."
-- "EMS is the art of improvising with training."
-- "Some nights feel like the system is against you."
-- "You’ll get better at seeing what’s coming… sometimes."
-- "Nothing prepares you for your first cardiac arrest."
-- "EMS life is messy, exhausting, and unforgettable."
-- "You can’t predict the calls, but you can be ready for them."
-- "Every patient teaches a little about empathy."
-- "Some nights make you swear off EMS, then you remember the people you helped."
-- "Your best skills are often the ones you refine by failing."
-- "The first 100 calls are your true education."
-- "Sometimes you win. Sometimes you survive."
-- "The job tests your limits every single shift."
+1. "The best way to predict the future is to create it." - Peter Drucker
+2. "Life is what happens when you're busy making other plans." - John Lennon
+3. "Every day may not be good, but there's something good in every day." - Alice Morse Earle
+4. "It does not matter how slowly you go as long as you do not stop." - Confucius
+5. "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - Alan Watts
+6. "Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
+7. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+8. "The best view comes after the hardest climb." - Unknown
+9. "It's never too late to be what you might have been." - George Eliot
+10. "You are never too small to make a difference." - Greta Thunberg
+11. "Discipline is the bridge between goals and accomplishment." - Jim Rohn
+12. "The best way to predict the future is to create it." - Peter Drucker
+13. "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." - Pele
+14. "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work." - Stephen King
+15. "The best way to predict the future is to create it." - Peter Drucker
+16. "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." - Pele
+17. "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work." - Stephen King
+18. "The best way to predict the future is to create it." - Peter Drucker
+19. "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." - Pele
+20. "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work." - Stephen King
+21. "The best way to predict the future is to create it." - Peter Drucker
+22. "Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
+23. "It's never too late to be what you might have been." - George Eliot
+24. "You are never too small to make a difference." - Greta Thunberg
+25. "The only way to do great work is to love what you do." - Steve Jobs
+26. "Choose a job you love, and you will never have to work a day in your life." - Confucius
+27. "Be the change that you wish to see in the world." - Mahatma Gandhi
+28. "The best way to predict the future is to create it." - Peter Drucker
+29. "Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
+30. "It's never too late to be what you might have been." - George Eliot
+31. "The best care comes from the heart, not just the head." - Unknown
+32. "In emergency medicine, time is tissue." - Unknown
+33. "Every second counts in an emergency." - Unknown
+34. "The most important thing a physician can do is to listen to the patient." - Dr. Francis Peabody
+35. "Medicine is a social science, and politics nothing else but medicine on a large scale." - Rudolf Virchow
+36. "The art of medicine consists in amusing the patient while nature affects the cure." - Voltaire
+37. "To do what nobody else will do, in a way that nobody else can do, in spite of all obstacles." - Unknown (attributed to EMS workers)
+38. "The best emergency care is often the simplest." - Unknown
+39. "In an emergency, don't just stand there – do something!" - Unknown
+40. "The most important thing a first responder can do is stay calm and think clearly under pressure." - Unknown
+41. "Believe you can and you're halfway there." - Theodore Roosevelt
+42. "Don't let yesterday take up too much of today." - Will Rogers
+43. "It always seems impossible until it's done." - Nelson Mandela
+44. "The only way to do great work is to love what you do." - Steve Jobs
+45. "Strive not to be a success, but rather to be of value." - Albert Einstein
+46. "You miss 100% of the shots you don't take." - Wayne Gretzky
+47. "The best way to predict the future is to create it." - Peter Drucker
+48. "Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
+49. "It's never too late to be what you might have been." - George Eliot
+50. "You are never too small to make a difference." - Greta Thunberg
+51. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+52. "It's not about the cards you're dealt, but how you play the hand." - Randy Pausch
+53. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+54. "Resilience is like a muscle that needs exercise, but doesn't get stronger if it gets worked out too often." - Diane Langberg
+55. "Happiness can be found even in the darkest of times, when one only remembers to turn on the light." - Albus Dumbledore (J.K. Rowling)
+56. "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
+57. "Don't let the bastards grind you down." - Marcus Aurelius
+58. "It's not about being the best. It's about being better than you were yesterday." - Unknown
+59. "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - Alan Watts
+60. "Everything you’ve ever wanted is on the other side of fear." - George Addair
+61. "A leader is one who knows the way, goes the way, and shows the way." - John C. Maxwell
+62. "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things." - Ronald Reagan
+63. "Leadership is not about the cards you're dealt, but how you play the hand." - Randy Pausch
+64. "A good leader inspires people to have confidence in their leader; a great leader inspires people to have confidence in themselves." - Eleanor Roosevelt
+65. "The best way to predict the future is to create it." - Peter Drucker
+66. "Leadership is not about titles, positions or flowcharts. It is about one life influencing another." - John C. Maxwell
+67. "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go but ought to be." - Rosalynn Carter
+68. "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things." - Ronald Reagan
+69. "Leadership is not about the cards you're dealt, but how you play the hand." - Randy Pausch
+70. "A good leader inspires people to have confidence in their leader; a great leader inspires people to have confidence in themselves." - Eleanor Roosevelt
+71. "Teamwork makes the dream work." - Unknown
+72. "None of us is as smart as all of us." - Ken Blanchard
+73. "The strength of the team is each individual member. The strength of each member is the team." - Phil Jackson
+74. "Alone we can do so little; together we can do so much." - Helen Keller
+75. "It takes two flints to make a fire." - Louisa May Alcott
+76. "The best teamwork comes from men who are working independently toward one goal in unison." - J.C. Penney
+77. "Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results." - Andrew Carnegie
+78. "The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime." - Babe Ruth
+79. "Coming together is a beginning. Keeping together is progress. Working together is success." - Henry Ford
+80. "The best teamwork comes from men who are working independently toward one goal in unison." - J.C. Penney
+81. "The single biggest problem in communication is the illusion that it has taken place." - George Bernard Shaw
+82. "Effective communication is 25% what you know, and 75% how you feel about what you know." - Jim Rohn
+83. "Communication is the real work of leadership." - Nitin Nohria
+84. "The art of communication is the language of leadership." - James Humes
+85. "To effectively communicate, we must realize that every person is a unique individual, each with a unique background, unique challenges, and unique views." - Les Brown
+86. "Communication is not about being the most persuasive speaker; it's about getting your audience to do what you want them to do." - Dale Carnegie
+87. "The most important thing in communication is hearing what isn't being said." - Peter Drucker
+88. "Communication is a skill that you can acquire. If you're not learning, you're not living." - Norman Vincent Peale
+89. "The art of conversation lies in listening." - Malcolm Forbes
+90. "To be interesting, be interested." - Dale Carnegie
+91. "The most important thing a physician can do is to listen to the patient." - Dr. Francis Peabody
+92. "Medicine is a social science, and politics nothing else but medicine on a large scale." - Rudolf Virchow
+93. "The art of medicine consists in amusing the patient while nature affects the cure." - Voltaire
+94. "Every patient carries her or his own doctor inside." - Albert Schweitzer
+95. "The best care comes from the heart, not just the head." - Unknown
+96. "In emergency medicine, time is tissue." - Unknown
+97. "Every second counts in an emergency." - Unknown
+98. "The most important thing a first responder can do is stay calm and think clearly under pressure." - Unknown
+99. "The best emergency care is often the simplest." - Unknown
+100. "In an emergency, don't just stand there – do something!" - Unknown
