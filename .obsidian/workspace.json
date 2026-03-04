@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd97b42ac6debfb",
+        "id": "95bec63449d89137",
         "type": "tabs",
         "children": [
           {
-            "id": "ba5d9d1a0d393d0b",
+            "id": "5ed857c98bfc9ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -275,17 +275,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ba5d9d1a0d393d0b",
+  "active": "5ed857c98bfc9ba1",
   "lastOpenFiles": [
     "Home.md",
+    "Default/Respiratory System.md",
+    "Resources/Screenshot 2026-03-02 at 8.30.49 AM.png",
+    "Resources/Screenshot 2026-03-01 at 11.31.05 AM.png",
+    "Resources/Screenshot 2026-03-01 at 11.24.31 AM.png",
+    "Resources/Untitled.canvas",
     "Default/Skeletal System.md",
     "Default/Axial Skeleton.md",
     "Default/Vault Roadmap.md",
-    "Default/Respiratory System.md",
     "Default/Ventilation.md",
     "Default/Emergency Medical Services.md",
     "Default/Accidental Death and Disability.md",
-    "Resources/Untitled.canvas",
     "Resources/Quotes.md",
     "Exams/Block Exam 1.md",
     "copilot/copilot-conversations/Make_a_mock_up_exam_based_on_block_1@20260302_135953.md",
@@ -306,7 +309,6 @@
     "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/EMS-Star.png",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/Drawing.md",
     "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
     "Resources/EMS Star.jpeg",
     "Users/eioia/Downloads",
@@ -322,9 +324,6 @@
     "dark-flower-wall-paper-mural-room.jpg",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Untitled.canvas",
-    "Resources/Pasted image 20260302104014.png",
-    "Resources/Pasted image 20260302103953.png",
-    "dark-flower-wall-paper-mural-room.jpg.webp",
     "Untitled 1.canvas"
   ]
 }
