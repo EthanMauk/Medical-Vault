@@ -1,0 +1,108 @@
+:root {
+  --main-color: #0665cb;
+  --accent-color: #0e4fb9;
+}
+
+/* ===== Dashboard Container ===== */
+.dashboard {
+    max-width: 650px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin: auto;
+}
+
+/* ===== Title ===== */
+.dashboard h1 {
+    text-align: center;
+    font-size: 2.25em;
+    margin-bottom: 1em;
+    font-weight: 600;
+}
+
+.dashboard h1 img {
+    display: inline-block;       
+    vertical-align: bottom;      
+    height: 1em;              
+    margin-right: 0.5em;      
+}
+
+.dashboard h2 {
+    margin-top: 2.5em;
+    margin-bottom: 0.8em;
+    font-weight: 500;
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: 4px;
+}
+
+.dashboard h3{
+    margin: 0em;
+    font-weight: 500;
+    color: #5f0066;
+}
+
+.dashboard{
+    border: 1px solid var(--background-modifier-border);
+  background: #fffdfa;
+}
+
+/* ===== Link Grid ===== */
+.dashboard ul {
+    list-style: none;
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 14px;
+}
+
+/* ===== Dashboard Cards ===== */
+.dashboard ul li {
+    background: var(--background-secondary);
+    border-radius: 10px;
+    padding: 12px 16px;
+    transition: all 0.15s ease;
+    border: 1px solid var(--background-modifier-border);
+}
+
+/* Hover effect */
+.dashboard ul li:hover {
+    transform: translateY(-2px);
+    background: var(--background-secondary-alt);
+}
+
+/* ===== Links ===== */
+.dashboard .internal-link{
+    text-decoration: none;
+    font-weight: 300;
+    color: var(--main-color);
+}
+
+.dashboard .internal-link:hover {
+    color: var(--text-accent);
+    color: var(--accent-color);
+}
+
+.dashboard a{
+    text-decoration: none;
+    font-weight: 300;
+    color: var(--main-color);
+}
+
+.dashboard a:hover {
+    color: var(--text-accent);
+    color: var(--accent-color);
+}
+
+/* ===== Horizontal Rule Divider ===== */
+.dashboard hr {
+    border: none;
+    border-top: 1px solid var(--background-modifier-border);
+    margin: 30px 0;
+}
+
+/* ===== Quote / Info blocks ===== */
+.dashboard blockquote {
+    background: var(--background-secondary);
+    border-left: 3px solid var(--interactive-accent);
+    padding: 10px 14px;
+    border-radius: 6px;
+}

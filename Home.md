@@ -1,4 +1,8 @@
-<h1 style="text-align:center;">EMS Vault Home</h1>
+---
+cssclasses: dashboard
+---
+# ![Logo](EMS-Star.png) The Vault
+# Medical Vault
 
 ```dataviewjs
 // Create main row
@@ -126,3 +130,4 @@ let container = dv.el("div", "", {
 
 dv.el("div", randomQuote , { container });
 ```
+---
