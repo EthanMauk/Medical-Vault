@@ -6,6 +6,7 @@
       {
         "id": "cef7675d2d5cc4f7",
         "type": "tabs",
+        "dimension": 45.4711802378774,
         "children": [
           {
             "id": "dcb5a6c562e2debf",
@@ -18,12 +19,25 @@
               "icon": "css-editor-logo",
               "title": "main"
             }
+          },
+          {
+            "id": "439d77733862e4a8",
+            "type": "leaf",
+            "state": {
+              "type": "css-editor-view",
+              "state": {
+                "file": "Dashboard.css"
+              },
+              "icon": "css-editor-logo",
+              "title": "Dashboard"
+            }
           }
         ]
       },
       {
         "id": "b7edf320381ec4e2",
         "type": "tabs",
+        "dimension": 54.528819762122595,
         "children": [
           {
             "id": "4a75f1400325d6fc",
@@ -122,6 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
@@ -149,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -271,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,18 +308,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dcb5a6c562e2debf",
+  "active": "4a75f1400325d6fc",
   "lastOpenFiles": [
+    "Default/Emergency Medical Services.md",
     "Home.md",
+    "EMS_Star.jpg",
     "Test CSs.md",
+    "Paramedic_photo.jpeg",
     "Default/Skeletal System.md",
     "Default/Appendicular Skeleton.md",
     "Default/Vault Roadmap.md",
     "Default/EMT Textbook.alias.md",
-    "Default/Emergency Medical Services.md",
     "Default/Untitled Kanban.md",
-    "Paramedic_photo.jpeg",
-    "EMS_Star.jpg",
     "Default/Respiratory System.md",
     "Exams/Block Exam 1.md",
     "Resources/Quotes.md",
@@ -325,7 +341,6 @@
     "copilot/copilot-conversations/Hey@20260302_113405.md",
     "copilot/copilot-conversations/Hello@20260302_134145.md",
     "copilot/copilot-conversations/Can_you_create_a_heatmap_of_idea_in_my_vault@20260302_150433.md",
-    "copilot/copilot-conversations/Can_you_create_5_flashcards_from_this_page@20260303_120737.md",
     "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/EMS-Star.png",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",

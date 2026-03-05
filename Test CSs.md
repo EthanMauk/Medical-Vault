@@ -41,3 +41,29 @@ cssclasses:
 
 > Lorem ipsum dolor sit amet, consectetur, adipisicing elit. Iure minus voluptates illum aspernatur officia vel officiis, et quis qui. 
 > <cite>Name of the author</cite>
+
+
+> [!tabbed]
+>
+> <label>1<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (First)
+> > [[Obsidian CSS|Internal Link]] > > **bold** _italic_
+>
+> <label>2<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Second)
+> > [External Link](https://google.com) > > $\LaTeX$
+>
+> <label>3<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Third)
+> >
+> > - bullet item
+> > - [ ] checkbox
+> > - [ ] #tag
+> 
+> <label>4<input type="radio" name="test" /></label>
+> 
+> <label>5<input type="radio" name="test" /></label>
+> 

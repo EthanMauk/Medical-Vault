@@ -105,7 +105,7 @@
 
 /* ===== Quote / Info blocks ===== */
 .dashboard blockquote {
-    background: var(--background-secondary);
+    background: transparent;
     border-left: 3px solid var(--interactive-accent);
     padding: 10px 14px;
     border-radius: 6px;

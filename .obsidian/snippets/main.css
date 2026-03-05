@@ -1,19 +1,18 @@
-/*
-author: FireIsGood
-source: https://discord.com/channels/686053708261228577/702656734631821413/1092995965583114341
-*/
-
 [data-callout="tabbed"] {
-  outline: 1px solid var(--color-base-30);
+  outline: px solid var(--color-base-30);
   border-radius: 0.5rem;
+  background: transparent;
+  max-width:80%;
+  margin:auto;
 }
-[data-callout="tabbed"] > .callout-content {
-  padding: 0.25rem;
 
+[data-callout="tabbed"] > .callout-content {
+  padding: 0rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(2rem, max-content));
-  gap: 0 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(3rem, max-content));
+  gap: 0 0.25rem;
 }
+
 [data-callout="tabbed"] > .callout-title {
   display: none;
 }
@@ -24,20 +23,19 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   display: none;
 }
 [data-callout="tabbed"] > .callout-content label {
-  width: 50%;
+  width: 100%;
   display: inline-block;
-  padding-right: 2rem;
-  border-radius: 0.5rem;
-  color: #ccc;
-  background-color: #2e7d32;
-  text-align: center;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  border-radius: 0.25rem;
+  color: #f0f0f0;
+  background-color: #515fa4;
   font-weight: bold;
   font-size: 1rem;
-  cursor: pointer;
 }
 [data-callout="tabbed"] > .callout-content label:has(input:checked) {
   color: #ffffff;
-  background-color: #8bc34a;
+  background-color: #4a4a4a;
 }
 [data-callout="tabbed"]
   > .callout-content
@@ -45,6 +43,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   + blockquote {
   display: none;
 }
+
 [data-callout="tabbed"] > .callout-content > blockquote {
   order: 999;
   grid-column: 1 / -1;
@@ -52,3 +51,4 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   padding-left: 0;
   border: 0;
 }
+
