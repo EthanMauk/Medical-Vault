@@ -5,5 +5,6 @@
   "readableLineLength": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Default",
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "propertiesInDocument": "hidden"
 }

@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - academia
+---
 > [!tabbed]
 >
 > <label>First<input type="radio" name="test" />l</label>
@@ -16,17 +20,10 @@
 > >
 > > - bullet item
 > > - [ ] checkbox
-> > - [x] #tag
+> > - [ ] #tag
 
-
----
-cssclass: academia, wideTable
----
 
 # Latex like table
-<br>
-
-<caption><b>Table 1.1</b> - A sample table with a descriptive caption.</caption>
 
 | Planet  | Distance from the Sun | 1 Planetary day  | Moons |
 |---------|-----------------------|------------------|-------|
@@ -38,3 +35,9 @@ cssclass: academia, wideTable
 | Saturn  | 1,427.0 million km    | 10.2 Earth hours | 62    |
 | Uranus  | 2,871.0 million km    | 17.9 Earth hours | 27    |
 | Neptune | 4,497.1 million km    | 19.1 Earth hours | 13    |
+> [!bug|aside-r]
+> your text here
+
+
+> Lorem ipsum dolor sit amet, consectetur, adipisicing elit. Iure minus voluptates illum aspernatur officia vel officiis, et quis qui. 
+> <cite>Name of the author</cite>

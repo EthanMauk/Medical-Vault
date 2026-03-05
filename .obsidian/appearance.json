@@ -3,7 +3,11 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "main",
-    "tables"
+    "tables",
+    "main copy 2",
+    "Sidenote",
+    "main copy 3",
+    "Blockquote"
   ],
   "accentColor": "#028892",
   "translucency": false,
