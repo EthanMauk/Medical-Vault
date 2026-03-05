@@ -8,41 +8,45 @@
     max-width: 650px;
     padding-top: 50px;
     padding-bottom: 80px;
+    min-width: 500px;
     margin: auto;
 }
 
 /* ===== Title ===== */
 .dashboard h1 {
-    text-align: center;
+    text-align: left;
     font-size: 2.25em;
     margin-bottom: 1em;
     font-weight: 600;
+    align-items: center;  
+    display: flex;
 }
 
 .dashboard h1 img {
-    display: inline-block;       
-    vertical-align: bottom;      
-    height: 1em;              
-    margin-right: 0.5em;      
-}
-
-.dashboard h2 {
-    margin-top: 2.5em;
-    margin-bottom: 0.8em;
-    font-weight: 500;
-    border-bottom: 1px solid var(--background-modifier-border);
-    padding-bottom: 4px;
+    display: inline-block;  
+    vertical-align: bottom; 
+    height: 2em;            
+    margin-left: 2em; 
+    margin-right: 2.5em; 
 }
 
 .dashboard h3{
     margin: 0em;
     font-weight: 500;
-    color: #5f0066;
+    color: #000000;
 }
+
+#MultiColumnID\:ExampleRegion1 .mcm-column-div:first-child {
+    padding-left: 4em;   /* adjust as needed */
+}
+
+
+
+
 
 .dashboard{
     border: 1px solid var(--background-modifier-border);
-  background: #fffdfa;
+  background: #ffffff;
 }
 
 /* ===== Link Grid ===== */
@@ -95,7 +99,7 @@
 /* ===== Horizontal Rule Divider ===== */
 .dashboard hr {
     border: none;
-    border-top: 1px solid var(--background-modifier-border);
+    border-top: 1px solid #969696;
     margin: 30px 0;
 }
 
@@ -106,3 +110,4 @@
     padding: 10px 14px;
     border-radius: 6px;
 }
+

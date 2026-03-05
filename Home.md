@@ -1,9 +1,8 @@
 ---
 cssclasses: dashboard
 ---
-# ![Logo](EMS-Star.png) The Vault
-# Medical Vault
-
+#  ![Logo](EMS-Star.png)  Emergency Medical Services Vault 
+---
 ```dataviewjs
 // Create main row
 let row = dv.el("div", "", {
@@ -25,7 +24,7 @@ function createPanel(title) {
         min-width: 0;
         border: 0px solid var(--background-modifier-border);
         padding: 0px;
-		text-align:center;
+		margin-left: 4em;
         display: flex;
         flex-direction: column;
       `
@@ -40,7 +39,7 @@ function createPanel(title) {
     container: panel,
     attr: {
       style: `
-        max-height: 220px;
+        max-height: 120px;
         overflow-y: auto;
         margin-top: 8px;
       `
@@ -94,8 +93,6 @@ for (let file of emptyNotes.slice(0, 30)) {
 number of columns: 2  
 shadow: off  
 border: off  
-margin: 10px  
-text-align: center
 ```
 
 ### Quick Links:
@@ -130,4 +127,22 @@ let container = dv.el("div", "", {
 
 dv.el("div", randomQuote , { container });
 ```
----
+> [!tabbed]
+>
+> <label>1<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (First)
+> > [[Obsidian CSS|Internal Link]] > > **bold** _italic_
+>
+> <label>2<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Second)
+> > [External Link](https://google.com) > > $\LaTeX$
+>
+> <label>3<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Third)
+> >
+> > - bullet item
+> > - [ ] checkbox
+> > - [ ] #tag

@@ -11,7 +11,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   padding: 0.25rem;
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(5rem, max-content));
+  grid-template-columns: repeat(auto-fill, minmax(2rem, max-content));
   gap: 0 1rem;
 }
 [data-callout="tabbed"] > .callout-title {
@@ -24,21 +24,19 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   display: none;
 }
 [data-callout="tabbed"] > .callout-content label {
-  width: 100%;
+  width: 50%;
   display: inline-block;
-  padding: 0.15rem 0.75ch;
-  border-radius: 1rem;
-
+  padding-right: 2rem;
+  border-radius: 0.5rem;
   color: #ccc;
   background-color: #2e7d32;
-
   text-align: center;
   font-weight: bold;
-  font-size: 1.15rem;
+  font-size: 1rem;
   cursor: pointer;
 }
 [data-callout="tabbed"] > .callout-content label:has(input:checked) {
-  color: white;
+  color: #ffffff;
   background-color: #8bc34a;
 }
 [data-callout="tabbed"]
@@ -50,7 +48,6 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
 [data-callout="tabbed"] > .callout-content > blockquote {
   order: 999;
   grid-column: 1 / -1;
-
   background-color: transparent;
   padding-left: 0;
   border: 0;
