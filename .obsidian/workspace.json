@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default/Axial Skeleton.md",
+                "file": "Default/Mechanism of Injury.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Axial Skeleton"
+              "title": "Mechanism of Injury"
+            }
+          },
+          {
+            "id": "de0cb8f7c02c11f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Default/Axial Skeleton.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
@@ -132,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Axial Skeleton"
+              "title": "Graph of Home"
             }
           },
           {
@@ -230,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default/Axial Skeleton.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Axial Skeleton"
+              "title": "Outline of Home"
             }
           },
           {
@@ -275,8 +291,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5ed857c98bfc9ba1",
+  "active": "de0cb8f7c02c11f4",
   "lastOpenFiles": [
+    "Default/Mechanism of Injury.md",
+    "Default/Axial Skeleton.md",
     "Default/Skeletal System.md",
     "Home.md",
     "Exams/Block Exam 1.md",
@@ -285,7 +303,6 @@
     "Resources/Screenshot 2026-03-01 at 11.31.05 AM.png",
     "Resources/Screenshot 2026-03-01 at 11.24.31 AM.png",
     "Resources/Untitled.canvas",
-    "Default/Axial Skeleton.md",
     "Default/Vault Roadmap.md",
     "Default/Ventilation.md",
     "Default/Emergency Medical Services.md",
