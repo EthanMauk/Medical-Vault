@@ -92,9 +92,3 @@
 92. "Medicine is a social science, and politics nothing else but medicine on a large scale." - Rudolf Virchow
 93. "The art of medicine consists in amusing the patient while nature affects the cure." - Voltaire
 94. "Every patient carries her or his own doctor inside." - Albert Schweitzer
-95. "The best care comes from the heart, not just the head." - Unknown
-96. "In emergency medicine, time is tissue." - Unknown
-97. "Every second counts in an emergency." - Unknown
-98. "The most important thing a first responder can do is stay calm and think clearly under pressure." - Unknown
-99. "The best emergency care is often the simplest." - Unknown
-100. "In an emergency, don't just stand there – do something!" - Unknown

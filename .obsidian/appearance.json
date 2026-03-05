@@ -2,7 +2,8 @@
   "showViewHeader": true,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "main"
+    "main",
+    "tables"
   ],
   "accentColor": "#028892",
   "translucency": false,
