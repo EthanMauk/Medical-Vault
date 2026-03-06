@@ -3,6 +3,37 @@
   --accent-color: #0e4fb9;
 }
 
+.default{
+    max-width: 650px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    min-width: 500px;
+    margin: auto;
+}
+
+.default .internal-link{
+    text-decoration: none;
+    font-weight: 300;
+    color: var(--main-color);
+}
+
+.default .internal-link:hover {
+    color: var(--text-accent);
+    color: var(--accent-color);
+}
+
+.default a{
+    text-decoration: none;
+    font-weight: 300;
+    color: var(--main-color);
+}
+
+.default a:hover {
+    color: var(--text-accent);
+    color: var(--accent-color);
+}
+
+
 /* ===== Dashboard Container ===== */
 .dashboard {
     max-width: 650px;

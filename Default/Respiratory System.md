@@ -1,3 +1,6 @@
+---
+cssclasses: default
+---
 The **Respiratory System** is a set of organs responsible [[Ventilation]] and [[Respiration]].
 [![[Screenshot 2026-03-01 at 2.27.54 PM.png]]](obsidian://open?vault=Medical&file=Default%2FDistress)
 # Anatomy of Lower Airway

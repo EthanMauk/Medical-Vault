@@ -1,7 +1,3 @@
-## First Exam Topics Breakdown
-**Time:** 2026-03-02 17:31
-**Summary:** The main topics for your first exam cover ten key chapters including EMS systems, safety and wellness, medical ethics, communication, medical terminology, body systems, development, lifting techniques, team dynamics, and patient assessment. Key concepts like infection control, consent, and core assessment tools such as OPQRST and ABCs are emphasized as frequently tested areas.
-
 ## Sample Block Exam 1 with Questions and Instructions
 **Time:** 2026-03-02 17:34
 **Summary:** The AI created a comprehensive sample exam for Block 1 covering key topics like body systems, medical ethics, communication, infection control, and scene safety. The exam includes multiple-choice, true/false, short-answer, and application questions designed to assess understanding of EMS principles and real-world scenarios.
@@ -37,3 +33,7 @@
 ## Concise Overview of Emergency Medical Services
 **Time:** 2026-03-03 12:07
 **Summary:** The user requested a more concise version of the first paragraph about Emergency Medical Services (EMS). The revised text briefly explains EMS, its origins from the 1966 Highway Safety Act, and its various roles and training levels, all connected to relevant nodes.
+
+## Refining Home Page Content and Functionality
+**Time:** 2026-03-05 15:59
+**Summary:** The user requested improvements to their home page in Obsidian, aiming for greater precision and accuracy. They want additional information added, formatting issues resolved, and the 'Quote of the Day' feature fixed once DataviewJS support is available.

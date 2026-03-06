@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cef7675d2d5cc4f7",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 45.4711802378774,
         "children": [
           {
-            "id": "dcb5a6c562e2debf",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "file": "main.css"
-              },
-              "icon": "css-editor-logo",
-              "title": "main"
-            }
-          },
-          {
-            "id": "439d77733862e4a8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "css-editor-view",
@@ -31,30 +18,24 @@
               "icon": "css-editor-logo",
               "title": "Dashboard"
             }
-          }
-        ]
-      },
-      {
-        "id": "b7edf320381ec4e2",
-        "type": "tabs",
-        "dimension": 54.528819762122595,
-        "children": [
+          },
           {
-            "id": "4a75f1400325d6fc",
+            "id": "d2ebab83aa9c8cc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Default/Bag Valve Mask.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Bag Valve Mask"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +109,7 @@
       {
         "id": "8fd33e060bf49be5",
         "type": "tabs",
-        "dimension": 24.054621848739497,
+        "dimension": 35.924369747899156,
         "children": [
           {
             "id": "62f6701aaebeab22",
@@ -136,11 +117,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Default/Bag Valve Mask.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -159,12 +140,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.292012981872873,
                   "linkDistance": 136,
-                  "scale": 0.8343391434842086,
+                  "scale": 0.857018055514027,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Bag Valve Mask"
             }
           },
           {
@@ -254,7 +235,7 @@
       {
         "id": "0238adcb5b464d01",
         "type": "tabs",
-        "dimension": 75.9453781512605,
+        "dimension": 64.07563025210085,
         "children": [
           {
             "id": "05a2c6fea101f031",
@@ -262,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test CSs.md",
+                "file": "Default/Bag Valve Mask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test CSs"
+              "title": "Outline of Bag Valve Mask"
             }
           },
           {
@@ -286,8 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,44 +288,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4a75f1400325d6fc",
+  "active": "d2ebab83aa9c8cc7",
   "lastOpenFiles": [
-    "Default/Emergency Medical Services.md",
+    "Default/Non-rebreathing.md",
+    "Default/Bag Valve Mask.md",
+    "BVM_AmbuBag_WebImage.jpg",
+    "Default/Volutrauma.md",
+    "Default/Hyperventilation.md",
+    "Default/Hyperventillation.md",
+    "Default/Barotrauma.md",
     "Home.md",
-    "EMS_Star.jpg",
-    "Test CSs.md",
-    "Paramedic_photo.jpeg",
-    "Default/Skeletal System.md",
-    "Default/Appendicular Skeleton.md",
-    "Default/Vault Roadmap.md",
-    "Default/EMT Textbook.alias.md",
-    "Default/Untitled Kanban.md",
+    "Default/Gastric Distention.md",
+    "Default/Anatomy of Terminology.md",
     "Default/Respiratory System.md",
-    "Exams/Block Exam 1.md",
-    "Resources/Quotes.md",
-    "Excalidraw/Drawing 2026-03-04 17.45.20.excalidraw.md",
-    "Default/Mechanism of Injury.md",
-    "Default/Axial Skeleton.md",
+    "Default/Respiratory Rate.md",
+    "Default/Diaphragm.md",
+    "Default/pH.md",
+    "Default/Cerebrospinal Fluid.md",
+    "Default/Phrenic Nerve.md",
+    "Default/Medulla.md",
+    "Default/Dead Space.md",
+    "Default/Do Not Resuscitate (DNR).md",
+    "Templates/Default Template.md",
+    "Default/Tidal Volume.md",
+    "Default/Manual Ventilator Device.md",
+    "Default/Positive Pressure.md",
+    "Default/Oropharyngeal Ariway.md",
+    "Default/Nasopharyngeal Airway.md",
+    "Default/Intubation.md",
+    "Default/Resuscitation.md",
+    "EMS_Star.jpg",
+    "Paramedic_photo.jpeg",
     "Resources/Screenshot 2026-03-02 at 8.30.49 AM.png",
     "Resources/Screenshot 2026-03-01 at 11.31.05 AM.png",
     "Resources/Screenshot 2026-03-01 at 11.24.31 AM.png",
     "Resources/Untitled.canvas",
-    "Default/Ventilation.md",
-    "Default/Accidental Death and Disability.md",
-    "copilot/copilot-conversations/Make_a_mock_up_exam_based_on_block_1@20260302_135953.md",
-    "copilot/copilot-conversations/How_many_times_is_the_word_the_written_in_my@20260302_135608.md",
-    "copilot/copilot-conversations/How_many_of_my_notes_mention_Perfusion@20260302_134440.md",
-    "copilot/copilot-conversations/How_is_this@20260303_011152.md",
-    "copilot/copilot-conversations/How_is_my_home_page_now@20260303_010636.md",
-    "copilot/copilot-conversations/hey@20260302_124331.md",
-    "copilot/copilot-conversations/Hey@20260302_113405.md",
-    "copilot/copilot-conversations/Hello@20260302_134145.md",
-    "copilot/copilot-conversations/Can_you_create_a_heatmap_of_idea_in_my_vault@20260302_150433.md",
     "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/EMS-Star.png",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
     "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
-    "Resources/EMS Star.jpeg",
     "Users/eioia/Downloads",
     "Users/eioia/Documents/Medical",
     "Users/eioia/Documents",
