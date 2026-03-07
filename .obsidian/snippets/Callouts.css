@@ -1,0 +1,127 @@
+/* Custom Callouts
+  - Orange  | Warning
+  - Green   | DDX
+  - Teal    | Field info
+  - Magenta | Critial Knowledge
+  - Purple  | Study Tips
+  - Blue    | Protocols
+*/
+
+.callout .callout-content{
+  padding: 11px 15px;
+  border-radius: 0px;
+  font-size: 0.9rem;
+}
+
+.callout{
+  padding: 0px;
+  border: 0px;
+  border-radius: 0px;
+  margin: 0px;
+  font-weight: 400;  
+  opacity: 1;
+  transition: opacity 1s ease;
+}
+
+.callout .callout-content > * {
+  margin: 0;
+}
+
+.callout .callout-title{
+  padding: 8px;
+  color: #ffffff;
+  font-size: 1rem;
+  margin-left: 10px;
+  letter-spacing: 0.3px;
+}
+
+.callout .callout-icon svg{
+  stroke: white;
+}
+
+.callout.is-collapsed {
+  opacity: 0.75;     
+  transition: opacity 1s ease; 
+  background: #ababab!important;
+}
+
+.callout[data-callout-metadata="cols"] .callout-content {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  gap: 1rem;
+}
+
+.callout[data-callout-metadata="cols"] blockquote {
+  background: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.callout[data-callout="protocol"] {
+  background: #3b70b5;
+  --callout-icon: lucide-clipboard-check;
+} 
+
+.callout[data-callout="protocol"] .callout-content{ 
+  background-color: #d6eaff; 
+}
+
+.callout[data-callout="study"] {
+  --callout-icon: lucide-graduation-cap;
+  background: #8d52ad;
+}
+
+.callout[data-callout="study"] .callout-content{
+  background-color: #f8e5ff;
+}
+
+.callout[data-callout="critical"] {
+  --callout-icon: lucide-heart-pulse;
+  background: #d6388c;
+}
+
+.callout[data-callout="critical"] .callout-content{
+  background-color: #ffe5f0;
+}
+
+.callout[data-callout="field"] {
+  --callout-icon: lucide-ambulance;
+  background: #24b5b7;
+}
+
+.callout[data-callout="field"] .callout-content{
+  background-color: #e5fffb;
+}
+
+.callout[data-callout="ddx"] {
+  --callout-icon: lucide-git-branch;
+  background: #35c065;
+}
+
+.callout[data-callout="ddx"] .callout-content{
+  background-color: #d5fbdf;
+}
+
+.callout[data-callout="warning"] {
+  --callout-icon: lucide-triangle-alert;
+  background: #f79f08;
+}
+
+.callout[data-callout="warning"] .callout-content{
+  background-color: #fbedda;
+}
+
+.callout[data-callout="indicators"] {
+  --callout-icon: lucide-eye;
+  background: #695bd2;
+}
+
+.callout[data-callout="indicators"] .callout-content{
+  background-color: #eae2fd;
+}
+
+.markdown-preview-view a.tag[href^="#card"] {
+    display: none;
+}

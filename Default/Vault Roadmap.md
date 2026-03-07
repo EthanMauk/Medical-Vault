@@ -13,3 +13,14 @@ We still need to:
 - Common CS styling and JS scripts we might use 
 - Establish an ideal length for notes, and ideal # of connections 
 - Better Integration with Drawings, Images and Charts
+
+
+Lab Skills:
+- Heart rate
+- Blood Pressure
+- Respiratory Sounds
+- NPA/OPA
+- Gurney Operations
+- Stair Chair
+- Suction
+- Donning/Doffing

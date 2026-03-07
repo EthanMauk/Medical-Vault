@@ -10,9 +10,16 @@ A typical **BVM** is composed of:
  - [[Non-rebreathing]] outlet valve
  - Oxygen reservoir bag
  - One-way inlet valve supporting 15L/min
+ 
 ![[BVM_AmbuBag_WebImage.jpg]]
 
 
+
+> [!protocol] Bag Valve Mask Checklist
+> - Airway is open
+> - Correct size bag
+> - Bag is inflated
+> - Mask is sealed with EC grip
 
 It allows providers to **manually move air into the lungs** by squeezing a self-inflating bag connected to a mask or airway device.
 
@@ -24,10 +31,16 @@ A BVM may also be used to **oxygenate/saturate a patient prior to [[Intubation|
 
 ## Indications & Contraindications
 - BVM should not be used if patient has [[Do Not Resuscitate|DNR]]
-- 
 
-## Complications
-- [[Gastric Distention]]
-- [[Barotrauma]]
-- [[Hyperventilation]]
-- [[Volutrauma]]
+> [!warning|cols] Complications
+>> - [[Gastric Distention]]
+>> - [[Barotrauma]]
+>
+>> - [[Hyperventilation]]
+>> - [[Volutrauma]]
+
+This is more text 
+
+>[!study] Another One
+> This is some example text
+

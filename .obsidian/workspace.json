@@ -4,8 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5864f5e9d5a62167",
         "type": "tabs",
+        "dimension": 51.12443778110944,
+        "children": [
+          {
+            "id": "67b7b716d46177d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Test Document.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS Test Document"
+            }
+          },
+          {
+            "id": "2ce023f7076e2869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "56ebc464111a76da",
+        "type": "tabs",
+        "dimension": 48.87556221889056,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -13,25 +52,25 @@
             "state": {
               "type": "css-editor-view",
               "state": {
-                "file": "Dashboard.css"
+                "file": "Callouts.css"
               },
               "icon": "css-editor-logo",
-              "title": "Dashboard"
+              "title": "Callouts"
             }
           },
           {
-            "id": "d2ebab83aa9c8cc7",
+            "id": "f69bebd3aa02fe00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default/Bag Valve Mask.md",
+                "file": "Default/Nitroglycerin.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bag Valve Mask"
+              "title": "Nitroglycerin"
             }
           }
         ],
@@ -100,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b962e08918b318cb",
@@ -109,7 +149,7 @@
       {
         "id": "8fd33e060bf49be5",
         "type": "tabs",
-        "dimension": 35.924369747899156,
+        "dimension": 21.89500640204865,
         "children": [
           {
             "id": "62f6701aaebeab22",
@@ -117,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Default/Bag Valve Mask.md",
+                "file": "Default/Nitroglycerin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
@@ -140,12 +180,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.292012981872873,
                   "linkDistance": 136,
-                  "scale": 0.857018055514027,
+                  "scale": 0.5174428985335473,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bag Valve Mask"
+              "title": "Graph of Nitroglycerin"
             }
           },
           {
@@ -235,7 +275,7 @@
       {
         "id": "0238adcb5b464d01",
         "type": "tabs",
-        "dimension": 64.07563025210085,
+        "dimension": 78.10499359795135,
         "children": [
           {
             "id": "05a2c6fea101f031",
@@ -243,13 +283,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default/Bag Valve Mask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bag Valve Mask"
+              "title": "Outline"
             }
           },
           {
@@ -267,10 +306,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flashcards-obsidian:Generate flashcards": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -288,37 +329,39 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d2ebab83aa9c8cc7",
+  "active": "f69bebd3aa02fe00",
   "lastOpenFiles": [
-    "Default/Non-rebreathing.md",
-    "Default/Bag Valve Mask.md",
-    "BVM_AmbuBag_WebImage.jpg",
-    "Default/Volutrauma.md",
-    "Default/Hyperventilation.md",
-    "Default/Hyperventillation.md",
-    "Default/Barotrauma.md",
     "Home.md",
-    "Default/Gastric Distention.md",
-    "Default/Anatomy of Terminology.md",
-    "Default/Respiratory System.md",
-    "Default/Respiratory Rate.md",
-    "Default/Diaphragm.md",
-    "Default/pH.md",
-    "Default/Cerebrospinal Fluid.md",
-    "Default/Phrenic Nerve.md",
-    "Default/Medulla.md",
-    "Default/Dead Space.md",
-    "Default/Do Not Resuscitate (DNR).md",
-    "Templates/Default Template.md",
-    "Default/Tidal Volume.md",
-    "Default/Manual Ventilator Device.md",
-    "Default/Positive Pressure.md",
-    "Default/Oropharyngeal Ariway.md",
-    "Default/Nasopharyngeal Airway.md",
-    "Default/Intubation.md",
-    "Default/Resuscitation.md",
-    "EMS_Star.jpg",
-    "Paramedic_photo.jpeg",
+    "Default/Systolic.md",
+    "Default/Nitroglycerin.md",
+    "CSS Test Document.md",
+    "Default/Myocardial Ischemia.md",
+    "Default/Theraputic Doses.md",
+    "Default/Sublingually.md",
+    "Default/Therapeutic Doses.md",
+    "Default/Venodilator.md",
+    "Default/Venous System.md",
+    "Default/Acute Coronary Syndrome.md",
+    "Default/Increased Intracranial Pressure.md",
+    "Default/PDE-5 Inhibitors.md",
+    "Default/Anemia.md",
+    "Default/Vasodilator.md",
+    "Default/Hypertensive Emergencies.md",
+    "Default/Pulmonary Edema.md",
+    "Default/Hypertension.md",
+    "Default/Preload.md",
+    "Default/Afterload.md",
+    "Default/Angina.md",
+    "Default/Emergency Medical Services.md",
+    "Default/Bag Valve Mask.md",
+    "Default/Vault Roadmap.md",
+    "Exams/Block Exam 1.md",
+    "Resources/Lungs.jpeg",
+    "Excalidraw/Drawing 2026-03-04 17.45.20.excalidraw.md",
+    "Default/Test.json",
+    "Resources/Paramedic_photo.jpeg",
+    "Resources/BVM_AmbuBag_WebImage.jpg",
+    "Resources/EMS_Star.jpg",
     "Resources/Screenshot 2026-03-02 at 8.30.49 AM.png",
     "Resources/Screenshot 2026-03-01 at 11.31.05 AM.png",
     "Resources/Screenshot 2026-03-01 at 11.24.31 AM.png",
@@ -326,7 +369,6 @@
     "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
     "Resources/EMS-Star.png",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
     "Users/eioia/Downloads",
     "Users/eioia/Documents/Medical",
     "Users/eioia/Documents",
@@ -336,7 +378,6 @@
     "EMT 101 Textbook copy",
     "EMT 101 Textbook",
     "Medical",
-    "Repository",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

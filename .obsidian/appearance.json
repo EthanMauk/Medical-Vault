@@ -2,12 +2,11 @@
   "showViewHeader": true,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "main",
-    "tables",
     "main copy 2",
     "main copy 3",
-    "Blockquote",
-    "Dashboard"
+    "main copy 4",
+    "Dashboard",
+    "Callouts"
   ],
   "accentColor": "#028892",
   "translucency": false,

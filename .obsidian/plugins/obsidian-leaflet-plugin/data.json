@@ -27,6 +27,135 @@
       "files": [
         "Default/Untitled 2.md"
       ]
+    },
+    {
+      "id": "anatomical‑map",
+      "locked": false,
+      "lastAccessed": 1772773468132,
+      "markers": [
+        {
+          "id": "ID_28b9a9ab3a19",
+          "type": "default",
+          "loc": [
+            141.11283358617325,
+            363.4390561824518
+          ],
+          "layer": "%5B%5BLungs.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 173.73356914431469,
+              "lng": 368.46899393351856,
+              "id": "ID_79186ab8e888",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 166.73352001066903,
+              "lng": 359.9706539879175,
+              "id": "ID_79fbc84ad9eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 160.2334743865695,
+              "lng": 358.97084928843503,
+              "id": "ID_09f809ebe969",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 154.7334357815622,
+              "lng": 353.9718257910227,
+              "id": "ID_4b8b694a38eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 148.73339366700878,
+              "lng": 354.4717281407639,
+              "id": "ID_58a96939ab6b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 138.7333234760864,
+              "lng": 353.9718257910227,
+              "id": "ID_98fb4a18ba99",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 127.7332462660718,
+              "lng": 356.9712398894701,
+              "id": "ID_1b18ea69bbb8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.23327785198686,
+              "lng": 368.46899393351856,
+              "id": "ID_d959a94bdb4b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 128.23324977561794,
+              "lng": 374.96772448015463,
+              "id": "ID_d8aac90a9919",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 136.73330943790194,
+              "lng": 380.46665032730823,
+              "id": "ID_b80a99fbe9fa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 154.23343227201607,
+              "lng": 385.46567382472057,
+              "id": "ID_d978eadb39eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 166.2335165011229,
+              "lng": 378.9669432780845,
+              "id": "ID_f8d9199ad888",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": []
     }
   ],
   "defaultMarker": {

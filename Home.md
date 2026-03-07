@@ -127,6 +127,3 @@ let container = dv.el("div", "", {
 
 dv.el("div", randomQuote , { container });
 ```
-
-
-

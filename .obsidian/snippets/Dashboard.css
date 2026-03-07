@@ -7,7 +7,6 @@
     max-width: 650px;
     padding-top: 50px;
     padding-bottom: 80px;
-    min-width: 500px;
     margin: auto;
 }
 
@@ -71,10 +70,6 @@
     padding-left: 4em;   /* adjust as needed */
 }
 
-
-
-
-
 .dashboard{
     border: 1px solid var(--background-modifier-border);
   background: #ffffff;
@@ -130,15 +125,6 @@
 /* ===== Horizontal Rule Divider ===== */
 .dashboard hr {
     border: none;
-    border-top: 1px solid #969696;
+    border-top: 1px solid #b5b5b5;
     margin: 30px 0;
 }
-
-/* ===== Quote / Info blocks ===== */
-.dashboard blockquote {
-    background: transparent;
-    border-left: 3px solid var(--interactive-accent);
-    padding: 10px 14px;
-    border-radius: 6px;
-}
-
