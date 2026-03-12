@@ -1,0 +1,5 @@
+---
+cssclasses: default
+---
+# Pneumothorax
+**Pneumothorax**

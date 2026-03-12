@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"00ca87d0a4b39255","type":"file","file":"Default/Nitroglycerin.md","x":-20,"y":-240,"width":400,"height":1580},
+		{"id":"1f4c22e9a77c1b22","type":"file","file":"Default/Aspirin.md","x":400,"y":-240,"width":400,"height":1580},
+		{"id":"55509aad3ba912db","type":"file","file":"Default/Naloxone.md","x":820,"y":-240,"width":400,"height":1580},
+		{"id":"8b77e8bcd33d9f05","type":"file","file":"Default/Epinephrine (medication).md","x":-440,"y":-240,"width":400,"height":1580},
+		{"id":"e4f00da7d850715b","type":"file","file":"Default/Albuterol.md","x":-860,"y":-240,"width":400,"height":1580},
+		{"id":"16ff89648101c91b","type":"file","file":"Default/Oral Glucose.md","x":-1240,"y":-240,"width":360,"height":1580},
+		{"id":"9c62199a989f5344","type":"file","file":"Default/Oxygen.md","x":1240,"y":-240,"width":400,"height":1580}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

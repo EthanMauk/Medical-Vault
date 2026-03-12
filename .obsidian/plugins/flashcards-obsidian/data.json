@@ -1,11 +1,11 @@
 {
-  "contextAwareMode": false,
+  "contextAwareMode": true,
   "sourceSupport": false,
   "codeHighlightSupport": false,
   "inlineID": false,
   "contextSeparator": " > ",
   "deck": "Default",
-  "folderBasedDeck": true,
+  "folderBasedDeck": false,
   "flashcardsTag": "card",
   "inlineSeparator": "::",
   "inlineSeparatorReverse": ":::",

@@ -1,3 +1,6 @@
+---
+cssclasses: default
+---
 ## Anatomy of Terminology
 Medical terms are composed of distinct parts:
 - [[Roots Tables|Word Root]] - Foundational Meaning of Word
@@ -27,13 +30,13 @@ The most common combining vowel is "o", but it can vary depending on the root wo
 ### Plural Rules
 Words with certain endings are modified past adding an s when going from a singular to plural form. 
 
-| Singular | Plural | Example             |
-| -------- | ------ | ------------------- |
-| a        | ae     | vertebra/vertebrae  |
-| is       | es     | diagnosis/diagnoses |
-| ex       | ices   | apex/apices         |
-| on/um    | a      | ovum/ova            |
-| us       | i      | bronchus/bronchi    |
+| Singular | Plural | Example             |     |
+| -------- | ------ | ------------------- | --- |
+| a        | ae     | vertebra/vertebrae  |     |
+| is       | es     | diagnosis/diagnoses |     |
+| ex       | ices   | apex/apices         |     |
+| on/um    | a      | ovum/ova            |     |
+| us       | i      | bronchus/bronchi    |     |
 
 ### Abbreviations and Symbols
 Certain words or phrases are used often enough to need shorthand in [[Abbreviations Table|abbreviations]] or [[Symbols Table|symbols]]. 

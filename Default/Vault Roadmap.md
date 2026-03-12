@@ -7,6 +7,11 @@ So far we have:
 - Kickstarted the vaults knowledge base using my first test as reference 
 - Established basic formatting guidelines, and stylebook
 
+Recently: 
+- Establish a Glossary, Auto Glossary Command
+- epub to txt and txt to audio
+- established inline glossary etiquette for short definitions to avoid note clutter, where small definitions such as prone and supine will be relegated to existing in the glossary with the title :: definition ^tag format, allowing it to be linked and referenced properly. This also allows a definition to exist as its own card such as diffusion and still have its glossary definition
+
 We still need to:
 - Create and standardize interactive maps, diagrams and images. 
 - Find a cohesive way to incorporate knowledge and procedures that would overflow a typical note, such as KSA’s and Labs.
@@ -24,3 +29,12 @@ Lab Skills:
 - Stair Chair
 - Suction
 - Donning/Doffing
+
+Maps:
+- Muscles of the body
+- Bones of the body
+- Arteries of the body 
+- Anatomy of heart
+- Anatomy of lung 
+
+[[Glossary#^altered-mental-status|Altered mental status]]

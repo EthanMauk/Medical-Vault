@@ -10,10 +10,7 @@ cssclasses: default
  > this
  
   >[!indicators] Indicators
- >- Acute [[Angina]] (chest pain due to [[Myocardial Ischemia]])
- >- Suspected acute coronary syndrome (ACS)
- >- [[Pulmonary Edema]] with [[Hypertension]] (to reduce [[Preload]]/[[Afterload]])
- >- [[Hypertensive Emergencies]] with cardiac ischemia
+ >- Indicators
  
  >[!study] Study Tips
  > Make sure to create a proper seal and open airway  application of BVM
@@ -29,7 +26,11 @@ cssclasses: default
  
   >[!warning] Warnings
  > Make sure to create a  seal and open airway before app45hj657kmu8
- 
+
+>[!transparent|cols] This is something
+>> Column 1
+>
+>>Column 2
 
 ## End-Section Callouts
 

@@ -45,20 +45,6 @@
   background: #ababab!important;
 }
 
-.callout[data-callout-metadata="cols"] .callout-content {
-  display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: 1fr;
-  gap: 1rem;
-}
-
-.callout[data-callout-metadata="cols"] blockquote {
-  background: transparent;
-  border: none;
-  margin: 0;
-  padding: 0;
-}
-
 .callout[data-callout="protocol"] {
   background: #3b70b5;
   --callout-icon: lucide-clipboard-check;
@@ -122,6 +108,48 @@
   background-color: #eae2fd;
 }
 
+.callout[data-callout="etymology"] .callout-title{
+  display: none;
+  --callout-icon: lucide-eye;
+  background: #535068;
+}
+
+.callout[data-callout="etymology"] .callout-content{
+  background-color: #eae2fd;
+}
+
+.callout[data-callout="transparent"] {
+  --callout-icon: none;
+  background: transparent;
+}
+
+.callout[data-callout="transparent"] .callout-content{
+  background-color: transparent;
+  padding: 0px;
+}
+
+.callout[data-callout="transparent"] .callout-title{
+  color: black;
+  padding: 0px;
+  font-size: 1.25rem;
+  display: none;
+}
+
+.callout[data-callout-metadata="cols"] .callout-content {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  gap: 1rem;
+}
+
+.callout[data-callout-metadata="cols"] blockquote {
+  background: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
 .markdown-preview-view a.tag[href^="#card"] {
     display: none;
 }
+

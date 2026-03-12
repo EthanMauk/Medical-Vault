@@ -97,12 +97,30 @@ border: off
 
 ### Quick Links
 [[Block Exam 1]]
+[[Block Exam 2]]
 [Textbook](file:///Users/eioia/Documents/EMT%20Textbook.epub)
+[Anki](file:///Applications/Anki.app)
 [[Vault Roadmap]]
+[[Glossary]] 
+
+```dataviewjs
+// Load the raw text of the Glossary note
+let text = await dv.io.load("Glossary.md"); // put folder path if needed
+
+// Count all block IDs
+let count = 0;
+if (text) {
+    let matches = text.match(/\^[A-Za-z0-9\-_]+/g);
+    count = matches ? matches.length : 0;
+}
+
+// Display inline, immediately after the link
+dv.el("span", ` Glossary Count: ${count}`, {attr:{style:"display:inline"}});
+```
 
 --- column-break ---
 
-Text displayed in column 2.
+Some text
 
 --- end-multi-column
 

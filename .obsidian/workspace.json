@@ -4,27 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5864f5e9d5a62167",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 51.12443778110944,
         "children": [
           {
-            "id": "67b7b716d46177d8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Test Document.md",
-                "mode": "source",
-                "source": false,
+                "file": "Default/Vocabulary.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CSS Test Document"
+              "title": "Vocabulary"
             }
           },
           {
-            "id": "2ce023f7076e2869",
+            "id": "2d8bf3d65fbe9ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,41 +39,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "56ebc464111a76da",
-        "type": "tabs",
-        "dimension": 48.87556221889056,
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "file": "Callouts.css"
-              },
-              "icon": "css-editor-logo",
-              "title": "Callouts"
-            }
-          },
-          {
-            "id": "f69bebd3aa02fe00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Default/Nitroglycerin.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nitroglycerin"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +50,7 @@
       {
         "id": "55d5777e00a35453",
         "type": "tabs",
-        "dimension": 57.14285714285714,
+        "dimension": 62.63736263736264,
         "children": [
           {
             "id": "4abd15ca1c3deb57",
@@ -116,7 +80,7 @@
       {
         "id": "9ade11c92e07473b",
         "type": "tabs",
-        "dimension": 42.857142857142854,
+        "dimension": 37.362637362637365,
         "children": [
           {
             "id": "4d639d8ce5ceee25",
@@ -139,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b962e08918b318cb",
@@ -149,7 +112,7 @@
       {
         "id": "8fd33e060bf49be5",
         "type": "tabs",
-        "dimension": 21.89500640204865,
+        "dimension": 38.02521008403361,
         "children": [
           {
             "id": "62f6701aaebeab22",
@@ -157,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Default/Nitroglycerin.md",
+                "file": "Default/Vocabulary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:Default  ",
@@ -180,12 +143,12 @@
                   "repelStrength": 10,
                   "linkStrength": 0.292012981872873,
                   "linkDistance": 136,
-                  "scale": 0.5174428985335473,
+                  "scale": 0.6953949441997986,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Nitroglycerin"
+              "title": "Graph of Vocabulary"
             }
           },
           {
@@ -213,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Default/Naloxone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Naloxone"
             }
           },
           {
@@ -270,12 +233,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0238adcb5b464d01",
         "type": "tabs",
-        "dimension": 78.10499359795135,
+        "dimension": 34.03361344537815,
         "children": [
           {
             "id": "05a2c6fea101f031",
@@ -283,12 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home"
             }
           },
           {
@@ -301,16 +266,34 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2c5e62ad02200635",
+        "type": "tabs",
+        "dimension": 27.941176470588236,
+        "children": [
+          {
+            "id": "ce5155fe24c06ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Home.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Home"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "flashcards-obsidian:Generate flashcards": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -326,59 +309,61 @@
       "css-editor:Open CSS editor quick switcher": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian42-brat:BRAT": false,
+      "drawio:Open draw.io editor": false
     }
   },
-  "active": "f69bebd3aa02fe00",
+  "active": "2d8bf3d65fbe9ce7",
   "lastOpenFiles": [
+    "Default/chain of command.md",
     "Home.md",
-    "Default/Systolic.md",
-    "Default/Nitroglycerin.md",
+    "Default/Vocabulary.md",
+    "Default/Untitled 5.md",
+    "Default/Untitled 6.md",
+    "Glossary.md",
     "CSS Test Document.md",
-    "Default/Myocardial Ischemia.md",
-    "Default/Theraputic Doses.md",
-    "Default/Sublingually.md",
-    "Default/Therapeutic Doses.md",
-    "Default/Venodilator.md",
-    "Default/Venous System.md",
-    "Default/Acute Coronary Syndrome.md",
-    "Default/Increased Intracranial Pressure.md",
-    "Default/PDE-5 Inhibitors.md",
-    "Default/Anemia.md",
-    "Default/Vasodilator.md",
-    "Default/Hypertensive Emergencies.md",
-    "Default/Pulmonary Edema.md",
-    "Default/Hypertension.md",
-    "Default/Preload.md",
-    "Default/Afterload.md",
-    "Default/Angina.md",
-    "Default/Emergency Medical Services.md",
-    "Default/Bag Valve Mask.md",
+    "Block Exam 2.md",
+    "Medications.canvas",
+    "Default/Block Exam 2.md",
+    "Applications/Anki.app.md",
+    "Applications",
+    "Default/Epinephrine (medication).md",
+    "Default/Untitled 4.md",
+    "Default/Cardiac Arrest.md",
+    "Default/Non-Selective Agonist.md",
+    "Untitled.md",
+    "Default/Untitled 3.md",
+    "Default/Untitled 2.md",
     "Default/Vault Roadmap.md",
-    "Exams/Block Exam 1.md",
+    "Default/Untitled 1.md",
+    "Default/Untitled 15.md",
+    "Drawing 2026-03-10 09.23.01.excalidraw.md",
+    "Human-Heart-Anatomy-525x600.jpg",
+    "Default/Untitled 14.md",
+    "Templates/glossary-link.md",
+    "Default/Untitled 13.md",
+    "Templates/Medication Template.md",
+    "Templates/Default Template.md",
+    "Scripts/glossary-link~.js",
+    "Scripts/glossary-link.js",
+    "Scripts/glossary link.js",
+    "Scripts/Glossary Link.js",
+    "Scripts/Glossary Template.js",
+    "Glossary Template.js",
+    "Templates/Glossary Template.js",
+    "Scripts",
+    "Templates/Glossary Template~.js",
+    "drawio/diagram_20260310000415.drawio.svg",
+    "drawio/diagram_20260309223710.drawio.svg",
+    "drawio/diagram_20260309223625.drawio.svg",
+    "drawio/diagram_20260309223504.drawio.svg",
     "Resources/Lungs.jpeg",
-    "Excalidraw/Drawing 2026-03-04 17.45.20.excalidraw.md",
-    "Default/Test.json",
     "Resources/Paramedic_photo.jpeg",
     "Resources/BVM_AmbuBag_WebImage.jpg",
     "Resources/EMS_Star.jpg",
     "Resources/Screenshot 2026-03-02 at 8.30.49 AM.png",
-    "Resources/Screenshot 2026-03-01 at 11.31.05 AM.png",
-    "Resources/Screenshot 2026-03-01 at 11.24.31 AM.png",
     "Resources/Untitled.canvas",
-    "Resources/Screenshot 2026-03-01 at 1.44.31 PM.png",
-    "Resources/EMS-Star.png",
-    "Excalidraw/Scripts/Downloaded/Shade Master.svg",
-    "Users/eioia/Downloads",
-    "Users/eioia/Documents/Medical",
-    "Users/eioia/Documents",
-    "Users/eioia",
-    "Users",
-    "EMT Textbook",
-    "EMT 101 Textbook copy",
-    "EMT 101 Textbook",
-    "Medical",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

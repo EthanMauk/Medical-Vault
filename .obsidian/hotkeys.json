@@ -6,5 +6,37 @@
       ],
       "key": "="
     }
+  ],
+  "drawio:drawio-create-or-edit": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:create-Templates/Glossary Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "G"
+    }
+  ],
+  "templater-obsidian:create-Templates/Glossary Link.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "G"
+    }
+  ],
+  "quickadd:choice:a37c5f09-539d-492f-98ee-b4e2ad5fcfb7": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "G"
+    }
   ]
 }

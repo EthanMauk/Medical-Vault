@@ -1,0 +1,15 @@
+{
+  "port": "1717",
+  "centeringDiagram": true,
+  "percentSize": true,
+  "interactiveDiagram": true,
+  "useMarkdownLinks": true,
+  "Folder": "drawio",
+  "diagramSize": "",
+  "HoverSizeDiagram": "100%",
+  "HiddenBorderInCanvas": true,
+  "HiddenLabelInCanvas": true,
+  "HiddenBorderInFocusMode": true,
+  "AlwaysFocusedInCanvas": true,
+  "TransparentDiagramBackgroundInCanavas": true
+}

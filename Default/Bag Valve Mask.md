@@ -1,5 +1,6 @@
 ---
 cssclasses: default
+aliases: BVM
 ---
 ## Overview
 A **Bag Valve Mask (BVM)**, is a [[Manual Ventilator Device]] used to provide [[Positive Pressure|positive-pressure]] [[Ventilation|ventilation]] to a patient who is not breathing adequately (slow, shallow respirations or low [[Tidal Volume|tidal volume]]).

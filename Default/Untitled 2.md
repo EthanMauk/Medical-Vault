@@ -1,14 +1,20 @@
-```leaflet
-height: 100%
-width: 100%
-image: dark-flower-wall-paper-mural-room.jpg
-id: 12
-scale: 1
-defaultZoom: 9
-long: 60
-lat: 60
-lock: true
-recenter: false
-maxZoom: 10
-minZoom: 10
-```
+---
+cssclasses: default
+---
+# Untitled 2
+**Untitled 2**
+
+```dataviewjs
+// Use dv.page to get the note by filename
+let page = dv.page("Glossary"); // <-- replace "Glossary" with your note's filename without .md
+
+if (page && page.file && page.file.content) {
+    const text = page.file.content;
+
+    // find all block IDs
+    const matches = text.match(/\^[A-Za-z0-9\-_]+/g) || [];
+
+    dv.paragraph(`**Number of block IDs:** ${matches.length}`);
+} else {
+    dv.paragraph("Could not load the glossary note. Check the filename.");
+}
